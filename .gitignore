@@ -1,3 +1,7 @@
+# BEGIN CUSTOM PROJECT IGNORES
+.idea
+
+# BEGIN DEFAULT LUA IGNORES
 # Compiled Lua sources
 luac.out
 
